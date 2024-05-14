@@ -1,0 +1,6 @@
+backend/env
+backend/api/migrations/**
+! backend/api/migrations/__init__.py
+backend/api/__pycache__.py
+backend/config/__pycache__.py
+db.sqlite3
